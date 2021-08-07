@@ -1,5 +1,4 @@
 # KALP
-In Progress
 
 Requirements:
 
